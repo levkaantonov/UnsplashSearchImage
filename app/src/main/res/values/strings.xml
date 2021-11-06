@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SearchImage</string>
+    <string name="tools_hint_author">John Doe</string>
+    <string name="btn_retry_text">retry</string>
+    <string name="results_code_not_be_loaded">Results code not be loaded</string>
+    <string name="no_result_fount_for_this_query">No result fount for this query</string>
+    <string name="menu_search">Search</string>
+    <string name="tools_image_description">This is description</string>
 </resources>
